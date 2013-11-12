@@ -1,4 +1,4 @@
-A tiny Twitter archiver. Scrapes a user's timeline; and produces a CSV from it.
+A tiny Twitter archiver. Downloads a user's timeline; and, in a separate program, produces a CSV from it. The former may be useful without the latter.
 Includes retweet and favourite counts, which the Twitter archive does not.
 
 * `pip install -r requirements.txt`
